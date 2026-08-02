@@ -1,0 +1,86 @@
+body {
+    background-color: turquoise;
+}
+#p1 {
+    color: blanchedalmond;
+    font-family: Google Sans;
+    font-size:45px;
+}
+#box1 {
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+    padding: 20px;
+    box-sizing: border-box;
+    background-image: url("images/Screenshot (30).png");
+    background-size: cover;      /* Fill the entire box */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+}
+#box2 {
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 850px;
+    background-image: url("images/Screenshot (31).png");
+    background-size: cover;      /* Fill the entire box */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+  }
+#box3 {
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 430px;
+}
+#cap1 {
+    position: absolute;
+    top: 160px;
+    bottom: 50px;
+    font-family: Google sans;
+    font-size: 27px;
+    align-items: center;
+    color: mediumpurple;
+}
+#cap2 {
+    position: absolute;
+    top: 160px;
+    bottom: 50px;
+    left: 850px;
+    font-family: Google sans;
+    font-size: 27px;
+    align-items: center;
+    color: goldenrod;
+}
+#cap3 {
+    position: absolute;
+    top: 160px;
+    bottom: 50px;
+    left: 430px;
+    font-family: Google sans;
+    font-size: 27px;
+    align-items: center;
+    color: tomato;
+}
+#cap1:hover {
+    color: yellowgreen;
+}
+#cap2:hover {
+    color: yellowgreen;
+}
+#cap3:hover {
+    color: yellowgreen;
+}
+#goback {
+    background-color: #ffffeb;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 900px;
+    left: 20px;
+}
+#goback:hover {
+    background-color: yellowgreen;
+}

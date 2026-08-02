@@ -1,0 +1,45 @@
+body {
+    font-family: 'Google sans', sans-serif;
+    background-color: darkturquoise;
+}
+#h1 {
+    color: tomato;
+}
+#p1 {
+    color: royalblue;
+    font-size:30px;
+}
+#submit{
+    background-color: royalblue;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+#submit:hover {
+    background-color: tomato;
+}
+#name {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: honeydew;
+}
+#name:focus {
+    outline: none;
+    border: 2px solid tomato;
+}
+#name::placeholder {
+    color: royalblue;
+}
+#result {
+    color: navajowhite;
+    font-size: 50px;
+    font-family: Google sans;
+}
+#goback {
+    background-color: burlywood;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+#goback:hover {
+    background-color: tomato;
+}
