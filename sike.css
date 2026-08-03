@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffeb;
+}
+
+#h1{
+    text-align: center;
+    font-size:90px;
+    position: absolute;
+    top: 340px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#jumpscare {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: tomato;
+}
