@@ -1,5 +1,5 @@
 ﻿# My-first-site
-day-1
+# day-1
 I started to configure git and started github pages
 I also added more pages, Links, and learned CSS and JS
 # day-2
