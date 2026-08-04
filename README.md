@@ -2,7 +2,7 @@
 day-1
 I started to configure git and started github pages
 I also added more pages, Links, and learned CSS and JS
-day-2
+# day-2
 I added really fun things gotta check them out for sure!
 
 
